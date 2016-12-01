@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: No Name
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Name: gondola_glass
+  m_Shader: {fileID: 4800000, guid: 1783776c66096428291befb32f27f080, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
   m_CustomRenderQueue: -1
@@ -19,6 +19,12 @@ Material:
         name: _BumpMap
       second:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cube
+      second:
+        m_Texture: {fileID: 8900000, guid: 763c11aa791c04fab8fc8510214664b1, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -69,6 +75,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecularMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 5a1c3200f29f74dc1b26b75db83962ac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - first:
         name: _BumpScale
@@ -104,6 +116,9 @@ Material:
         name: _Parallax
       second: 0.02
     - first:
+        name: _ReflectBrightness
+      second: 1
+    - first:
         name: _SmoothnessTextureChannel
       second: 0
     - first:
@@ -121,7 +136,16 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.7205882, g: 0.010596896, b: 0.010596896, a: 1}
+      second: {r: 0.13916522, g: 0.41122034, b: 0.72794116, a: 1}
+    - first:
+        name: _Colour
+      second: {r: 0.11764705, g: 0.11764705, b: 0.11764705, a: 1}
     - first:
         name: _EmissionColor
       second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _ReflectColour
+      second: {r: 0.1397059, g: 0.1397059, b: 0.1397059, a: 0.5}
+    - first:
+        name: _RimColour
+      second: {r: 0.007352948, g: 0.21957421, b: 1, a: 0}
