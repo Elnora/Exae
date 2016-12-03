@@ -5,11 +5,11 @@ using UnityEngine;
 public class coin_rotation : MonoBehaviour {
 
 	public Light lt;
-	public float duration = 6.0F;
+	public float duration = 12.0F;
 
 	// Use this for initialization
 	void Start () {
-		lt = GetComponent<Light>();
+		//lt = GetComponent<Light>();
 	}
 	
 	// Update is called once per frame
@@ -19,6 +19,7 @@ public class coin_rotation : MonoBehaviour {
 		float phi = Time.time / duration * 2 * Mathf.PI;
 		float amplitude = Mathf.Cos(phi) * 0.5F + 0.5F;
 		lt.intensity = amplitude;
+		Debug.Log (amplitude);
 	}
 }
 

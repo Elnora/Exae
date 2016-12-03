@@ -354,11 +354,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Shader: {fileID: 4800000, guid: 9d7e8f87435780644abb4acdfd72a2f0, type: 3}
   LookupTexture: {fileID: 2800000, guid: bd2ac76ba1b71ec45baad4a259780dd2, type: 3}
-  Amount: 0.225
+  Amount: 0.391
   TintColor: {r: 1, g: 0.9603448, b: 0.875, a: 1}
   Hue: 0
-  Saturation: 0
-  Brightness: 0.12
+  Saturation: 0.13
+  Brightness: 0.15
   Contrast: 0.01
   Sharpness: 0
 --- !u!114 &114730617633034678
