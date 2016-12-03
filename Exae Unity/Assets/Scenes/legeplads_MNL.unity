@@ -55,13 +55,13 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 4
     m_Resolution: 2
-    m_BakeResolution: 40
-    m_TextureWidth: 1024
+    m_BakeResolution: 30
+    m_TextureWidth: 512
     m_TextureHeight: 1024
     m_AO: 1
     m_AOMaxDistance: 1
-    m_CompAOExponent: 5.09
-    m_CompAOExponentDirect: 1.38
+    m_CompAOExponent: 4.74
+    m_CompAOExponentDirect: 1.29
     m_Padding: 2
     m_LightmapParameters: {fileID: 0}
     m_LightmapsBakeMode: 0
@@ -243,8 +243,13 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1928908726842084, guid: f8e0d8e0fdcef47cd82f8fe076a1fd70, type: 2}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 23095051153886006, guid: f8e0d8e0fdcef47cd82f8fe076a1fd70,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8f3ca10f178a6408883a8cf4ecdd66a6, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f8e0d8e0fdcef47cd82f8fe076a1fd70, type: 2}
   m_IsPrefabParent: 0
@@ -2824,6 +2829,14 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4469934841045406, guid: 7c4bf49530862417dadd73e163a5bcdf, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 2.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 4469934841045406, guid: 7c4bf49530862417dadd73e163a5bcdf, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 3.85
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7c4bf49530862417dadd73e163a5bcdf, type: 2}
   m_IsPrefabParent: 0
@@ -3252,6 +3265,10 @@ Prefab:
     - target: {fileID: 4920834898004028, guid: f8e0d8e0fdcef47cd82f8fe076a1fd70, type: 2}
       propertyPath: m_LocalScale.z
       value: 1.5000007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1928908726842084, guid: f8e0d8e0fdcef47cd82f8fe076a1fd70, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f8e0d8e0fdcef47cd82f8fe076a1fd70, type: 2}
