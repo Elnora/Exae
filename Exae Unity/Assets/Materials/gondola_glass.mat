@@ -145,7 +145,7 @@ Material:
       second: {r: 0, g: 0, b: 0, a: 1}
     - first:
         name: _ReflectColour
-      second: {r: 0.1397059, g: 0.1397059, b: 0.1397059, a: 0.5}
+      second: {r: 0.1397059, g: 0.1397059, b: 0.1397059, a: 0.213}
     - first:
         name: _RimColour
       second: {r: 0.007352948, g: 0.21957421, b: 1, a: 0}

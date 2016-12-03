@@ -5254,6 +5254,26 @@ Prefab:
       propertyPath: m_OcclusionCulling
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114963478073524788, guid: 5e9e851c0e142814dac026a256ba2ac0,
+        type: 2}
+      propertyPath: generalIntensity
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 114963478073524788, guid: 5e9e851c0e142814dac026a256ba2ac0,
+        type: 2}
+      propertyPath: intensityMultiplier
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 114963478073524788, guid: 5e9e851c0e142814dac026a256ba2ac0,
+        type: 2}
+      propertyPath: whiteIntensity
+      value: 0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 114963478073524788, guid: 5e9e851c0e142814dac026a256ba2ac0,
+        type: 2}
+      propertyPath: blackIntensity
+      value: 0.73
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
   m_IsPrefabParent: 0

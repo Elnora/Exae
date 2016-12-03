@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4013987326062300}
   - component: {fileID: 33447144265614658}
   - component: {fileID: 23655681754220002}
+  - component: {fileID: 64024366185188848}
   m_Layer: 0
   m_Name: mountain_v1
   m_TagString: Untagged
@@ -34,13 +35,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1416579995169028}
-  m_LocalRotation: {x: -0.45483303, y: 0.5958232, z: 0.44827014, w: 0.4870067}
-  m_LocalPosition: {x: -209.5, y: -37.6, z: -10}
-  m_LocalScale: {x: 6.692549, y: 6.692551, z: 6.692551}
+  m_LocalRotation: {x: 0.6241296, y: 0.08135252, z: 0.13520834, w: -0.7652208}
+  m_LocalPosition: {x: -174, y: -42.182, z: -0.9}
+  m_LocalScale: {x: 5.972683, y: 5.972681, z: 5.9726834}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -77.740005, y: 125.647, z: -29.752}
+  m_LocalEulerAnglesHint: {x: -77.740005, y: 372.033, z: -29.752}
 --- !u!23 &23655681754220002
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -54,7 +55,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 126f0293f900141c6a875930ea22216a, type: 2}
+  - {fileID: 2100000, guid: 946ba5a849ba2435b8314d43596eb2fd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -78,4 +79,18 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1416579995169028}
+  m_Mesh: {fileID: 4300000, guid: 71a011a5a5f16417e88d83808988b6bc, type: 3}
+--- !u!64 &64024366185188848
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1416579995169028}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: 71a011a5a5f16417e88d83808988b6bc, type: 3}
