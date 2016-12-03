@@ -29,6 +29,27 @@ ModelImporter:
     100042: Tall Cliff
     100044: Tower01
     100046: Tower02
+    100048: BigHill
+    100050: Bridge01
+    100052: Bridge02
+    100054: Bush01
+    100056: Bush01.001
+    100058: Bush02
+    100060: Bush02.001
+    100062: Bush03
+    100064: Bush03.001
+    100066: Bush04
+    100068: Bush04.001
+    100070: Cube
+    100072: Hill
+    100074: Mnt
+    100076: Stone02
+    100078: Tree crown
+    100080: Tree crown.001
+    100082: Tree crown.002
+    100084: Tree crown.003
+    100086: Trunk
+    100088: Trunk.001
     400000: BUILDING
     400002: BUILDING.002
     400004: Cube.000
@@ -53,6 +74,27 @@ ModelImporter:
     400042: Tall Cliff
     400044: Tower01
     400046: Tower02
+    400048: BigHill
+    400050: Bridge01
+    400052: Bridge02
+    400054: Bush01
+    400056: Bush01.001
+    400058: Bush02
+    400060: Bush02.001
+    400062: Bush03
+    400064: Bush03.001
+    400066: Bush04
+    400068: Bush04.001
+    400070: Cube
+    400072: Hill
+    400074: Mnt
+    400076: Stone02
+    400078: Tree crown
+    400080: Tree crown.001
+    400082: Tree crown.002
+    400084: Tree crown.003
+    400086: Trunk
+    400088: Trunk.001
     2300000: BUILDING
     2300002: BUILDING.002
     2300004: Cube.000
@@ -73,6 +115,28 @@ ModelImporter:
     2300034: Tall Cliff
     2300036: Tower01
     2300038: Tower02
+    2300040: BigHill
+    2300042: Bridge01
+    2300044: Bridge02
+    2300046: Bush01
+    2300048: Bush01.001
+    2300050: Bush02
+    2300052: Bush02.001
+    2300054: Bush03
+    2300056: Bush03.001
+    2300058: Bush04
+    2300060: Bush04.001
+    2300062: Cube
+    2300064: Hill
+    2300066: Mnt
+    2300068: Stone02
+    2300070: Tree crown
+    2300072: Tree crown.001
+    2300074: Tree crown.002
+    2300076: Tree crown.003
+    2300078: Trunk
+    2300080: Trunk.001
+    2300082: //RootNode
     3300000: BUILDING
     3300002: BUILDING.002
     3300004: Cube.000
@@ -93,6 +157,28 @@ ModelImporter:
     3300034: Tall Cliff
     3300036: Tower01
     3300038: Tower02
+    3300040: BigHill
+    3300042: Bridge01
+    3300044: Bridge02
+    3300046: Bush01
+    3300048: Bush01.001
+    3300050: Bush02
+    3300052: Bush02.001
+    3300054: Bush03
+    3300056: Bush03.001
+    3300058: Bush04
+    3300060: Bush04.001
+    3300062: Cube
+    3300064: Hill
+    3300066: Mnt
+    3300068: Stone02
+    3300070: Tree crown
+    3300072: Tree crown.001
+    3300074: Tree crown.002
+    3300076: Tree crown.003
+    3300078: Trunk
+    3300080: Trunk.001
+    3300082: //RootNode
     4300000: Cube.003
     4300002: Cube.000
     4300004: Ruin
@@ -113,6 +199,27 @@ ModelImporter:
     4300034: MointainTower02
     4300036: Tall Cliff
     4300038: Hills
+    4300040: Mnt
+    4300042: BigHill
+    4300044: Bush01
+    4300046: Bush02
+    4300048: Bush03
+    4300050: Bush04
+    4300052: Bush04.001
+    4300054: Bush03.001
+    4300056: Bush01.001
+    4300058: Bush02.001
+    4300060: Bridge02
+    4300062: Tree crown.003
+    4300064: Tree crown.002
+    4300066: Tree crown.001
+    4300068: Trunk.001
+    4300070: Trunk
+    4300072: Tree crown
+    4300074: Cube
+    4300076: Bridge01
+    4300078: Stone02
+    4300080: Hill
   materials:
     importMaterials: 1
     materialName: 0

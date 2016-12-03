@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: d38c599e422d647e4b79398e91bd610b
+timeCreated: 1480770128
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigHill
+    100002: Bridge01
+    100004: Bridge02
+    100006: BUILDING
+    100008: //RootNode
+    100010: BUILDING.002
+    100012: Bush01
+    100014: Bush01.001
+    100016: Bush02
+    100018: Bush02.001
+    100020: Bush03
+    100022: Bush03.001
+    100024: Bush04
+    100026: Bush04.001
+    100028: Cube
+    100030: Cube.000
+    100032: Cube.001
+    100034: Cube.002
+    100036: Cube.003
+    100038: Cube.057
+    100040: Cube.064
+    100042: Cylinder.002
+    100044: Hill
+    100046: Hills
+    100048: Mnt
+    100050: MointainTower02
+    100052: MountainTower01
+    100054: Ruin
+    100056: Stone02
+    100058: Sun
+    100060: Sun.001
+    100062: Sun.002
+    100064: Tall Cliff
+    100066: Tower01
+    100068: Tower02
+    100070: Tree crown
+    100072: Tree crown.001
+    100074: Tree crown.002
+    100076: Tree crown.003
+    100078: Trunk
+    100080: Trunk.001
+    400000: BigHill
+    400002: Bridge01
+    400004: Bridge02
+    400006: BUILDING
+    400008: //RootNode
+    400010: BUILDING.002
+    400012: Bush01
+    400014: Bush01.001
+    400016: Bush02
+    400018: Bush02.001
+    400020: Bush03
+    400022: Bush03.001
+    400024: Bush04
+    400026: Bush04.001
+    400028: Cube
+    400030: Cube.000
+    400032: Cube.001
+    400034: Cube.002
+    400036: Cube.003
+    400038: Cube.057
+    400040: Cube.064
+    400042: Cylinder.002
+    400044: Hill
+    400046: Hills
+    400048: Mnt
+    400050: MointainTower02
+    400052: MountainTower01
+    400054: Ruin
+    400056: Stone02
+    400058: Sun
+    400060: Sun.001
+    400062: Sun.002
+    400064: Tall Cliff
+    400066: Tower01
+    400068: Tower02
+    400070: Tree crown
+    400072: Tree crown.001
+    400074: Tree crown.002
+    400076: Tree crown.003
+    400078: Trunk
+    400080: Trunk.001
+    2300000: BigHill
+    2300002: Bridge01
+    2300004: Bridge02
+    2300006: BUILDING
+    2300008: BUILDING.002
+    2300010: Bush01
+    2300012: Bush01.001
+    2300014: Bush02
+    2300016: Bush02.001
+    2300018: Bush03
+    2300020: Bush03.001
+    2300022: Bush04
+    2300024: Bush04.001
+    2300026: Cube
+    2300028: Cube.000
+    2300030: Cube.001
+    2300032: Cube.002
+    2300034: Cube.003
+    2300036: Cube.057
+    2300038: Cube.064
+    2300040: Cylinder.002
+    2300042: Hill
+    2300044: Hills
+    2300046: Mnt
+    2300048: MointainTower02
+    2300050: MountainTower01
+    2300052: Ruin
+    2300054: Stone02
+    2300056: Tall Cliff
+    2300058: Tower01
+    2300060: Tower02
+    2300062: Tree crown
+    2300064: Tree crown.001
+    2300066: Tree crown.002
+    2300068: Tree crown.003
+    2300070: Trunk
+    2300072: Trunk.001
+    2300074: //RootNode
+    3300000: BigHill
+    3300002: Bridge01
+    3300004: Bridge02
+    3300006: BUILDING
+    3300008: BUILDING.002
+    3300010: Bush01
+    3300012: Bush01.001
+    3300014: Bush02
+    3300016: Bush02.001
+    3300018: Bush03
+    3300020: Bush03.001
+    3300022: Bush04
+    3300024: Bush04.001
+    3300026: Cube
+    3300028: Cube.000
+    3300030: Cube.001
+    3300032: Cube.002
+    3300034: Cube.003
+    3300036: Cube.057
+    3300038: Cube.064
+    3300040: Cylinder.002
+    3300042: Hill
+    3300044: Hills
+    3300046: Mnt
+    3300048: MointainTower02
+    3300050: MountainTower01
+    3300052: Ruin
+    3300054: Stone02
+    3300056: Tall Cliff
+    3300058: Tower01
+    3300060: Tower02
+    3300062: Tree crown
+    3300064: Tree crown.001
+    3300066: Tree crown.002
+    3300068: Tree crown.003
+    3300070: Trunk
+    3300072: Trunk.001
+    3300074: //RootNode
+    4300000: Mnt
+    4300002: BigHill
+    4300004: Bush01
+    4300006: Bush02
+    4300008: Bush03
+    4300010: Bush04
+    4300012: Bush04.001
+    4300014: Bush03.001
+    4300016: Bush01.001
+    4300018: Bush02.001
+    4300020: Bridge02
+    4300022: Tree crown.003
+    4300024: Tree crown.002
+    4300026: Tree crown.001
+    4300028: Trunk.001
+    4300030: Trunk
+    4300032: Tree crown
+    4300034: Cube
+    4300036: Cube.003
+    4300038: Cube.000
+    4300040: Ruin
+    4300042: Cube.002
+    4300044: Cube.001
+    4300046: BUILDING.002
+    4300048: Cylinder.002
+    4300050: BUILDING
+    4300052: Bridge01
+    4300054: Tower01
+    4300056: Tower02
+    4300058: Cube.064
+    4300060: Stone02
+    4300062: Cube.057
+    4300064: Hill
+    4300066: MountainTower01
+    4300068: MointainTower02
+    4300070: Tall Cliff
+    4300072: Hills
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
