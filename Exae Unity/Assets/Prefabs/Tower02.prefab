@@ -21,12 +21,13 @@ GameObject:
   - component: {fileID: 4615591006780064}
   - component: {fileID: 33765111526453100}
   - component: {fileID: 23971037450900320}
+  - component: {fileID: 111172511765736932}
   m_Layer: 0
   m_Name: Tower02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &4615591006780064
 Transform:
@@ -35,8 +36,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1846625874764274}
   m_LocalRotation: {x: -0.6872001, y: 0.16660139, z: 0.16660143, w: 0.68720007}
-  m_LocalPosition: {x: -123.4, y: -22.184, z: 258.3}
-  m_LocalScale: {x: 1690.7894, y: 1690.7876, z: 1690.7876}
+  m_LocalPosition: {x: -84.3, y: 23.3, z: 230.2}
+  m_LocalScale: {x: 1155.7327, y: 1155.7313, z: 1155.7313}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -79,3 +80,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1846625874764274}
   m_Mesh: {fileID: 4300002, guid: 1eb2390720274450fbab1148d01a0173, type: 3}
+--- !u!111 &111172511765736932
+Animation:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1846625874764274}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: fea283d32e33848a38d59d14ecde6249, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: fea283d32e33848a38d59d14ecde6249, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
